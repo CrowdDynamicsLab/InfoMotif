@@ -26,6 +26,5 @@ results/
 /utils/vflib/graph.txt
 /utils/vflib/instances.txt
 /utils/vflib/motif.txt
-/utils/vflib/
 /data/citeseer/citeseer_LCC.cites
 /data/cora/cora_LCC.cites
