@@ -1,6 +1,6 @@
 ## Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework
 
-##### Contributors: [Aravind Sankar](http://asankar3.web.engr.illinois.edu/) (asankar3@illinois.edu), [Junting Wang](https://junting98.github.io/)
+##### Contributors: [Aravind Sankar](http://asankar3.web.engr.illinois.edu/) (asankar3@illinois.edu), [Junting Wang](https://junting98.github.io/) (junting3@illinois.edu)
 
 > Aravind Sankar, Junting Wang, Adit Krishnan, and Hari Sundaram, "Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework", 2020 IEEE International Conference on Data Mining (ICDM), <b>ICDM 2020</b>, November 17-20, 2020.
 
