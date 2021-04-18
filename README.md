@@ -6,7 +6,7 @@
 
  
 ## Reference
- If you make use of this code or the GraFrank algorithm in your work, please cite the following paper:
+ If you make use of this code or the InfoMotif framework in your work, please cite the following paper:
 
 ```bibtex
 @inproceedings{sankar2020beyond,
